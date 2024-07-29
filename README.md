@@ -14,7 +14,7 @@ Tech Challenge FIAP - Big Data Architecture (Fase 2)
 Para dar os primeiros passos, primeiro devemos clonar o projeto da seguinte maneira:
 
 ```bash
-git clone git@github.com:r0x0d/mlet_tech_challenge_phase2.git
+git clone git@github.com:r0x0d/mlet-tech-challenge-phase2.git
 ```
 
 Com o projeto clonado, vamos entrar em sua pasta raíz e instalar as dependencias do projeto
